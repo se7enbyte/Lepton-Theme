@@ -1,6 +1,6 @@
 # Lepton-Theme
 Lepton, the BetterDiscord theme.
-The Lepton Theme is a basic purple, black and green colorized theme. I don't use the import command, u guys can edit the theme. The theme have a 2 'root' panel, do not delete them panels! Have fun...
+The Lepton Theme is a basic purple, black and green colorized theme. I don't add the import command, u guys can edit the theme. The theme have a 2 'root' panel, do not delete them panels! Have fun...
 
 ## Home Screen
 ![Screenshot_2](https://user-images.githubusercontent.com/65273063/188265398-7495a243-5ba3-4717-aa18-cb4d094c73e2.png)
